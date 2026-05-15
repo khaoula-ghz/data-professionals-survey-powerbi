@@ -99,11 +99,6 @@ This report answers key questions for anyone considering or already working in t
 - Cross-page filtering with slicers
 - Conditional formatting on salary visuals
 
-**Custom Visuals Used:**
-- Advance Card — enhanced KPI display
-- Radar Chart — multi-axis satisfaction comparison
-- Map — geographic distribution
-- Date Picker — time-based filtering
 
 ---
 
@@ -120,7 +115,7 @@ This report answers key questions for anyone considering or already working in t
 
 - **Python dominates** as the most popular programming language across all data roles
 - **Data Scientists** earn the highest average salaries, followed by Data Engineers
-- **The United States** has the highest concentration of respondents and highest salaries
+- **The United States** has the highest salaries
 - **Breaking into data is rated moderately difficult** — most respondents found it neither easy nor very hard
 - **Better Salary** is the most important factor when job searching
 - A significant portion of respondents are **career switchers**, suggesting the data field is accessible across backgrounds
